@@ -11,9 +11,11 @@ import cucumber.api.junit.Cucumber;
 			features="C:/Users/HK-SONY/Selenium_Eclipse_Workspace/CucumberPOM_FreeCRM_NaveenAutomation//src/main/java/com/qa/features/freeCRM.feature",
 			glue= {"com/qa/stepDefinitions"}, 
 			dryRun=false,
-			monochrome=true
-			
+			monochrome=true			
 		)
+
+
+
 
 
 public class TestRunner 

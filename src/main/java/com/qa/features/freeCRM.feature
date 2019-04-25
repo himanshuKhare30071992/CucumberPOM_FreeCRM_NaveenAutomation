@@ -6,4 +6,5 @@ Scenario: Validate Free CRM Home Page Test
 		Then user logs into application
 		Then validate home page title
 		Then validate logged in username
+		Then close the browser
 		

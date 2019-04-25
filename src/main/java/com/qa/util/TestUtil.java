@@ -7,8 +7,8 @@ import org.openqa.selenium.interactions.Actions;
 
 public class TestUtil 
 {
-	static int PAGE_LOAD_WAIT = 20;
-	static int IMPLICIT_WAIT = 	30;
+	static int PAGE_LOAD_WAIT = 60;
+	static int IMPLICIT_WAIT = 	60;
 	static JavascriptExecutor jsObj;
 	static Actions actObj;
 	
